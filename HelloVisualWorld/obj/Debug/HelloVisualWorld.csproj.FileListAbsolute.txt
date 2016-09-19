@@ -1,0 +1,8 @@
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+D:\Mani\comp-100\GUI\Form_1\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb

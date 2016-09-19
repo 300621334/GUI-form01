@@ -1,0 +1,9 @@
+D:\Mani\comp-100\GUI\Form_1\secondForm\bin\Debug\secondForm.exe.config
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.Form1.resources
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.Properties.Resources.resources
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.csproj.GenerateResource.Cache
+D:\Mani\comp-100\GUI\Form_1\secondForm\bin\Debug\secondForm.exe
+D:\Mani\comp-100\GUI\Form_1\secondForm\bin\Debug\secondForm.pdb
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.exe
+D:\Mani\comp-100\GUI\Form_1\secondForm\obj\Debug\secondForm.pdb

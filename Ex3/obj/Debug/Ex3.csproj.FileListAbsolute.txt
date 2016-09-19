@@ -1,0 +1,9 @@
+D:\Mani\comp-100\GUI\Form_1\Ex3\bin\Debug\Ex3.exe.config
+D:\Mani\comp-100\GUI\Form_1\Ex3\bin\Debug\Ex3.exe
+D:\Mani\comp-100\GUI\Form_1\Ex3\bin\Debug\Ex3.pdb
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.Form1.resources
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.csproj.GenerateResource.Cache
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.exe
+D:\Mani\comp-100\GUI\Form_1\Ex3\obj\Debug\Ex3.pdb

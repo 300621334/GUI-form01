@@ -1,0 +1,18 @@
+D:\Mani\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.exe.config
+D:\Mani\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.exe
+D:\Mani\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.pdb
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.Form1.resources
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.exe
+D:\Mani\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\GUI\Form_1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
